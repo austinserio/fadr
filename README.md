@@ -20,3 +20,9 @@ Getting Started with Fadr.
 3.) Add class “element-header” to each HTML individual item to be animated
 
 4.) If the item is an image element, use the alternate tag “element-media”.
+
+
+
+
+Animate.css was orignally created by Dan Eden: https://daneden.github.io/animate.css/
+Wow.js was orignally created by Matt Aussaguel: https://wowjs.uk
