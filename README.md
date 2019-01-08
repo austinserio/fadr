@@ -14,6 +14,9 @@ Getting Started with Fadr.
 ```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 ```
+```
+<script type="application/javascript" src=“fadr-master/wow.js”</script>
+```
   
 3.) Add class “element-header” to each HTML individual item to be animated
 
