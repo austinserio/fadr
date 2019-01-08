@@ -13,8 +13,7 @@ Getting Started with Fadr.
 3.) Add animation support by adding animate.css and wow.js to the head of your HTML document
 ```
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-```
-```
+
 <script type="application/javascript" src=“fadr-master/wow.js”</script>
 ```
   
